@@ -1,0 +1,12 @@
+{
+  "Usuarios": [
+    {
+      "id": 1032012528,
+      "nombre": "Juan",
+      "correo": "juanescobardavid2007@gmail.com",
+      "Contraseña": "1234",
+      "rol": "Administrador"
+    }
+  ],
+  "Citas": []
+}
